@@ -44,7 +44,7 @@
 2)负责介电常数反演算法的改进以及算法鲁棒性的提高;
 3)负责雷达信号处理以及图像目标识别(Adaboost & SVM & RCNN)
 
-学术成果:参加GPR2016国际学术会议(HK)、申请一个发明专利以及发表一篇EI收录论文
+学术成果:参加AITA2017、GPR2016国际学术会议、发表2篇EI检索论文以及申请一个发明专利
 
 
 [2] 嫦娥五号月壤结构探测电磁问题计算、成像算法和软件开发                       主要项目成员
@@ -100,6 +100,9 @@ Data Conversion Reverse-time Migration and Full Wavefrom Inversion for Subsurfac
 [5] Hai Liu, Yuxian Zhang, Zhijun Long, Feng Han and Qing Huo Liu, “Reverse Time Migration For Subsurface Imaging” in Proceedings of the 2016 URSI Asia-Pacific Radio Science Conference, pp 423-428, Seoul, Korea, 23 Aug 2016.
 
 [6] Hai Liu, Yuxian Zhang, Zhijun Long, Yuanyou Xia and Qing Huo Liu, “Ground Penetrating Radar Inspection of Asphalt Pavement with an Off-ground Antenna Array” in Proceedings of the 2016 Progress In Electromagnetics Research Symposium (PIERSS 2016), pp 423-428, Shanghai, China, 10 Aug 2016.
+
+[7] Zhi-jun Long, Bang-an Xing, Hai Liu and Qing Huo Liu, “Hyperbola Recognition from Ground Penetrating Radar Using Deep Convolutional
+Neural Networks” 2017 2nd International Conference on Artificial Intelligence: Techniques and Applications (AITA2017).
 
 
 ## 作品
